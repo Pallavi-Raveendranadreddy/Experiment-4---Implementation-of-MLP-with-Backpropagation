@@ -157,9 +157,18 @@ print(classification_report(y_test,predictions))
 ```
 
 ## OUTPUT 
+
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/ee50878153e9bca37ea72579bc8b891f199ab509/n1.PNG)
+
+
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/ee50878153e9bca37ea72579bc8b891f199ab509/n2.PNG)
+
+
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/ee50878153e9bca37ea72579bc8b891f199ab509/n3.PNG)
+
+
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/ee50878153e9bca37ea72579bc8b891f199ab509/n4.PNG)
+
+
 ## RESULT
 Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
