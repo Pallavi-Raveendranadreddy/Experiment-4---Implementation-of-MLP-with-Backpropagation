@@ -116,7 +116,7 @@ Normalize our dataset.
 7.In order to get the predicted values we call the predict() function on the testing data set.
 
 8. Finally, call the functions confusion_matrix(), and the classification_report() in order to evaluate the performance of our classifier.
-### NAME: valasareddy Pallavi
+### Name: valasareddy Pallavi
 ### Ref no: 212221240059
 ## PROGRAM 
 ```
